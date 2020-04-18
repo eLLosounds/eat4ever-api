@@ -1,0 +1,22 @@
+{
+    "recepies": [
+        {
+            "id":"test-recipe",
+            "title":"A Test Recepie",
+            "ingredients": [
+                {
+                    "name":"gpu",
+                    "amount":"2kg"
+                },
+                {
+                    "name":"cpu",
+                    "amount":"1kg"
+                },
+                {
+                    "name":"RAM",
+                    "amount:": "1000000000kg"
+                }
+            ]
+        }
+    ]
+}
