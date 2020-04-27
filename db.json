@@ -4,7 +4,7 @@
             "id":"Coffe-shake",
             "title":"How to make a Coffe-Shake",
             "img": "/Coffe-shake.jpg",
-            "youtube":"",
+            "youtube":"https://www.youtube.com/embed/PiYQs7KIJik",
             "ingredients": [
                 {
                     "name":"Icecubes",
