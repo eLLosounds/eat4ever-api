@@ -11,11 +11,11 @@
                 },
                 {
                     "name":"Espresso",
-                    "amount":""
+                    "amount":"1 cup"
                 },
                 {
-                    "name":"RAM",
-                    "amount:": "1000000000kg"
+                    "name":"Milk",
+                    "amount": "Half a Cup"
                 }
             ]
         }
