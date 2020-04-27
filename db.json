@@ -1,16 +1,17 @@
 {
     "recepies": [
         {
-            "id":"test-recipe",
-            "title":"A Test Recepie",
+            "id":"Coffe-shake",
+            "title":"How to make a Coffe-Shake",
+            "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visualpharm.com%2Ffree-icons%2Funchecked%2520checkbox-595b40b85ba036ed117dc578&psig=AOvVaw16gA6PbTCe7dzYN6FjeQhh&ust=1588085399320000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiQvqftiOkCFQAAAAAdAAAAABAD",
             "ingredients": [
                 {
-                    "name":"gpu",
-                    "amount":"2kg"
+                    "name":"Icecubes",
+                    "amount":"3-5 cubes"
                 },
                 {
-                    "name":"cpu",
-                    "amount":"1kg"
+                    "name":"Espresso",
+                    "amount":""
                 },
                 {
                     "name":"RAM",
