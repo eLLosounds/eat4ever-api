@@ -4,6 +4,7 @@
             "id":"Coffe-shake",
             "title":"How to make a Coffe-Shake",
             "img": "/Coffe-shake.jpg",
+            "youtube":"",
             "ingredients": [
                 {
                     "name":"Icecubes",
@@ -16,6 +17,20 @@
                 {
                     "name":"Milk",
                     "amount": "Half a Cup"
+                },
+                {
+                    "name":"Sugar",
+                    "amount":"1 tsp"
+                }
+            ],
+            "instructions": [
+                {
+                    "nr":"1.",
+                    "step":"Crush the Ice Cubes"
+                },
+                {
+                    "nr":"2.",
+                    "step":"Put everything in the Blender"
                 }
             ]
         }
