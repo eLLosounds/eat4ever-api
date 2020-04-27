@@ -30,7 +30,11 @@
                 },
                 {
                     "nr":"2.",
-                    "step":"Put everything in the Blender"
+                    "step":"Add Milk, Sugar, Espresso"
+                },
+                {
+                    "nr":"3.",
+                    "step":"Mix it all"
                 }
             ]
         }
