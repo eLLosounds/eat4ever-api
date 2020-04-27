@@ -8,15 +8,15 @@
             "ingredients": [
                 {
                     "name":"Icecubes",
-                    "amount":"3-5 cubes"
+                    "amount":"3-5"
                 },
                 {
                     "name":"Espresso",
-                    "amount":"1 cup"
+                    "amount":"1 Cup"
                 },
                 {
                     "name":"Milk",
-                    "amount": "Half a Cup"
+                    "amount": "1/2 Cup"
                 },
                 {
                     "name":"Sugar",
@@ -37,6 +37,28 @@
                     "step":"Mix it all"
                 }
             ]
-        }
+        },
+        {
+            "id":"Roasted Almonds",
+            "title":"Roasted Almonds",
+            "img": "/Roasted-Almonds.jpg",
+            "youtube":"https://www.youtube.com/embed/Yb9YNtva7Ko",
+            "ingredients": [
+                {
+                    "name":"Almonds",
+                    "amount":"As many as you want"
+                }
+            ],
+            "instructions": [
+                {
+                    "nr":"1.",
+                    "step":"Roast in the Ofen"
+                },
+                {
+                    "nr":"2.",
+                    "step":"Enjoy!"
+                }
+            ]
+        }      
     ]
 }
