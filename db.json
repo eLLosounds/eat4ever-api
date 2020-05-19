@@ -1,7 +1,7 @@
 {
     "recepies": [
         {
-            "id":"Coffe-shake",
+            "id":"coffe-shake",
             "title":"How to make a Coffe-Shake",
             "img": "/Coffe-shake.jpg",
             "youtube":"https://www.youtube.com/embed/PiYQs7KIJik",
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "id":"Roasted Almonds",
+            "id":"almonds",
             "title":"Roasted Almonds",
             "img": "/Roasted Almonds.jpg",
             "youtube":"https://www.youtube.com/embed/Yb9YNtva7Ko",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "id":"How make Chocolate mouse",
+            "id":"mouse",
             "title":"How make Chocolate mouse",
             "img": "/Chocolate-mouse.jpg",
             "youtube":"https://www.youtube.com/embed/DSbSPeuo",
@@ -87,7 +87,7 @@
             ]
         },
         {
-            "id":"How to cook a Turkey Breast",
+            "id":"turkey",
             "title":"How to cook a Turkey Breast",
             "img": "/turkey.png",
             "youtube":"https://www.youtube.com/embed/qMMek6gj-w4",
